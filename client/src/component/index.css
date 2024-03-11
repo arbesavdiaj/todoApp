@@ -1,0 +1,9 @@
+body {
+    background-image: url("./homeback.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0; /* Use 0 for zero margin */
+  }
